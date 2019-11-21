@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Doa Sehari hari</string>
+
+    <string-array name="namadoa">
+        <item>Do\'a Sebelum Tidur</item>
+        <item>Do\'a Bangung Tidur</item>
+        <item>Do\'a Masuk Masjid</item>
+        <item>Do\'a Keluar Masjid</item>
+        <item>Do\'a Berpakaian</item>
+        <item>Do\'a Bercermin</item>
+        <item>Do\'a Sebelum Makan</item>
+        <item>Do\'a Setelah Makan</item>
+        <item>Do\'a Masuk Kamar Mandia</item>
+        <item>Do\'a Keluar Kamar Mandi</item>
+        <item>Do\'a Keluar Rumah</item>
+    </string-array>
+
+    <string-array name="juduldoa">
+        <item>Do\'a Sebelum Tidur</item>
+        <item>Do\'a Bangung Tidur</item>
+        <item>Do\'a Masuk Masjid</item>
+        <item>Do\'a Keluar Masjid</item>
+        <item>Do\'a Berpakaian</item>
+        <item>Do\'a Bercermin</item>
+        <item>Do\'a Sebelum Makan</item>
+        <item>Do\'a Setelah Makan</item>
+        <item>Do\'a Masuk Kamar Mandi</item>
+        <item>Do\'a Keluar Kamar Mandi</item>
+        <item>Do\'a Keluar Rumah</item>
+    </string-array>
+
+    <string-array name="arabdoa">
+        <item>بِسْمِكَ اللّهُمَّ اَحْيَا وَاَمُوْت</item>
+        <item>اَلْحَمْدُ ِللهِ الَّذِىْ اَحْيَانَا بَعْدَمَآ اَمَاتَنَا وَاِلَيْهِ النُّشُوْر</item>
+        <item>اَللهُمَّ افْتَحْ لِىْ اَبْوَابَ رَحْمَتِك</item>
+        <item>اَللهُمَّ اِنِّى اَسْأَلُكَ مِنْ فَضْلِك</item>
+        <item>اَلْحَمْدُ ِللهِ الَّذِىْ كَسَانِىْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِحَوْلٍ مِنِّىْ وَلاَقُوَّة</item>
+        <item>اَلْحَمْدُ ِللهِ، كَمَا حَسَّنْتَ خَلْقِىْ فَحَسّنْ خُلُقِى</item>
+        <item>اَللهُمَّ بَارِكْ لَنَا فِيْمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ</item>
+        <item>اَلْحَمْدُ ِللهِ الَّذِىْ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِيْن</item>
+        // tugas
+        <item>اَللهُمَّ اِنّىْ اَعُوْذُبِكَ مِنَ الْخُبُثِ وَالْخَبَآئِثِ</item>
+        <item>غُفْرَانَك</item>
+        <item>بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لاَحَوْلَ وَلاَقُوَّةَ اِلاَّ بِاللهِ</item>
+    </string-array>
+
+    <string-array name="artidoa">
+        <item>Artinya: Dengan nama-Mu ya Allah aku hidup dan aku mati.</item>
+        <item>Artinya : Segala puji bagi Allah yang telah menghidupkan kami sesudah kami mati (membangunkan dari tidur) dan hanya kepada-Nya kami dikembalikan.</item>
+        <item>Artinya : Ya Allah, bukakanlah bagiku pintu-pintu rahmat-Mu.</item>
+        <item>Artinya : Ya Allah, sesungguhnya aku memohon keutamaan dari-Mu.</item>
+        <item>Artinya : Segala puji bagi Allah yang memberi aku pakaian ini dan memberi rizqi dengan tiada upaya dan kekuatan dariku.</item>
+        <item>Artinya: Segala puji bagi Allah, baguskanlah budi pekertiku sebagaimana Engkau telah membaguskan rupa wajahku.</item>
+        <item>Artinya : Ya Allah, berkahilah kami dalam rezeki yang telah Engkau berikan kepada kami dan peliharalah kami dari siksa api neraka.</item>
+        <item>Artinya : Segala puji bagi Allah yang telah memberi makan kami dan minuman kami, serta menjadikan kami sebagai orang-orang islam.</item>
+        <item>Artinya: Ya Allah, aku berlindung dari godaan syetan laki-laki dan syetan perempuan.</item>
+        <item>Artinya : Dengan mengharap ampunanMu</item>
+        <item>Artinya : Dengan menyebut nama Allah aku bertawakal kepada Allah, tiada daya kekuatan melainkan dengan Allah.</item>
+    </string-array>
+    <string name="title_activity_detail_doa">DetailDoa</string>
+</resources>
